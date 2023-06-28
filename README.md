@@ -1,10 +1,8 @@
-# Mentorship
-> Explorer Challenge - Stage 03:
+# 6º Projeto - Mentorship
+> Projeto construído no programa Explorer, promovido pela Rocketseat, como desafio extra para firmar os conhecimentos aprendidos no stage 3.
 <p align="center">
 <img src="./model.jpg" width="550" align="center">
 </p>
-
-Project created in the Explorer Program promoved by Rocketseat.
 
 🔗 [check here](https://kleck-lucena.github.io/Mentorship/)
 
